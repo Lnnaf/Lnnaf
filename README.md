@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently working with **Java** and **Ivy**
+
+- 🌱 Still learning more, Let's get started wtih **Flutter**
 
 - 📫 How to reach me **vanlinh12b5@gmail.com**
 
-- ⚡ Fun fact **Im a Dotarder, My hero is Windrunner**
+- ⚡ Fun fact **Im a Dotarder, My favorite hero is Windrunner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
